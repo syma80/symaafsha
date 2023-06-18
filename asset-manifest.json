@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/symaafsha/static/css/main.26654b9b.css",
+    "main.js": "/symaafsha/static/js/main.f5cac7ed.js",
+    "static/js/787.520e3195.chunk.js": "/symaafsha/static/js/787.520e3195.chunk.js",
+    "static/media/badge.png": "/symaafsha/static/media/badge.0cf42725eea5aa5a5211.png",
+    "static/media/violent.png": "/symaafsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
+    "static/media/cv.png": "/symaafsha/static/media/cv.e17ce48d3a65bfd2e419.png",
+    "static/media/MIST.png": "/symaafsha/static/media/MIST.5a94c00ee1b82aaa0316.png",
+    "static/media/signpaper.jpg": "/symaafsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
+    "static/media/footer-mail.png": "/symaafsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
+    "static/media/badge(1).png": "/symaafsha/static/media/badge(1).ee37ef32cd9646d1582d.png",
+    "static/media/flowchart-new.png": "/symaafsha/static/media/flowchart-new.11af6507761f736eb1f7.png",
+    "static/media/mob-mail.png": "/symaafsha/static/media/mob-mail.1d6a0ee2ba12f9b30973.png",
+    "static/media/CVIcon.png": "/symaafsha/static/media/CVIcon.12e203ea8435fd26214e.png",
+    "static/media/pdf.png": "/symaafsha/static/media/pdf.b4529524a8d07b0443fa.png",
+    "static/media/cap.png": "/symaafsha/static/media/cap.8b778ce754960a208943.png",
+    "static/media/googlescholaricon.png": "/symaafsha/static/media/googlescholaricon.e75ae125217c12c862fc.png",
+    "static/media/linkedin.png": "/symaafsha/static/media/linkedin.9d8b4a4a0c39e80f637b.png",
+    "static/media/googlescholar.png": "/symaafsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
+    "static/media/researchgate.png": "/symaafsha/static/media/researchgate.bd68100c438fd856ab6b.png",
+    "static/media/mail.png": "/symaafsha/static/media/mail.acfb2e404601b649c577.png",
+    "index.html": "/symaafsha/index.html",
+    "main.26654b9b.css.map": "/symaafsha/static/css/main.26654b9b.css.map",
+    "main.f5cac7ed.js.map": "/symaafsha/static/js/main.f5cac7ed.js.map",
+    "787.520e3195.chunk.js.map": "/symaafsha/static/js/787.520e3195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26654b9b.css",
+    "static/js/main.f5cac7ed.js"
+  ]
+}
