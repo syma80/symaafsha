@@ -23,7 +23,7 @@ function Navbar() {
     <div className={menuOpen? "menu-link" : "mobile-menu-link"}>
       <ul className="nav-links " >
         <li><Link className='navbar-link' to="/">Home</Link></li>
-        <li><Link className='navbar-link' to="/about-me"> About</Link></li>
+        <li><Link className='navbar-link' to="/about"> About</Link></li>
         <li><Link className='navbar-link ' to="/research">Research</Link></li>
         <li><Link className='navbar-link ' to="/publication">Publication</Link></li>
         {/* <li><Link className='navbar-link ' to="/contact">Contact</Link></li> */}
