@@ -1,20 +1,23 @@
 @media (max-width: 800px) {
     .home-button{
         font-family: serif;
-    font-size: 18px;
-    width:150px;
-    height: 70px;
+    font-size: 17px;
+    width:120px;
+    height: 60px;
     color: white;
     text-align: center; 
     }
 }
 @media (min-width: 800px) {
+   
 .home-button{
     font-family: serif;
     font-size: 18px;
-    width:150px;
-    height: 80px;
+
     color: white;
     text-align: center;
+    width:150px;
+  height: 60px;
+
 }
 }
