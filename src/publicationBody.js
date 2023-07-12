@@ -22,9 +22,9 @@ export default function PublicationBody(){
    
         <ul style={{margin:15}}>
         <p style={{color: "yellow"}}><u>2023</u></p>
-        <li> M. Haque, <h style={{color:"aqua"}}>S. Afsha </h>, and H. Nyeem, <b>“BrutNet: A Novel Approach for Violence Detection and Classification using DCNN with GRU,”</b>  2022 International Conference on Innovations in Science, Engineering and
+        <li> M. Haque, H. Nyeem, and <h style={{color:"aqua"}}>S. Afsha </h> <b>“BrutNet: A Novel Approach for Violence Detection and Classification using DCNN with GRU,”</b>  2022 International Conference on Innovations in Science, Engineering and
 Technology, 2022, pp. 396-401. [ <a  style={{color: "#cf2e2e", textDecoration: "none"}} href="#" target="_blank"><i><u>Paper</u> </i> </a>]
-<i> ( Cite: <a style={{color: "#cf2e2e"}} href="#" target="_blank">BibTeX</a> <b>,</b> <a   style={{color: "#cf2e2e", textDecoration: "none"}} href="#" target="_blank"><u>Scholar</u> </a> )</i>
+<i> ( Cite: <a style={{color: "#cf2e2e"}} href="#" target="_blank">BibTeX</a> <b>,</b> <a   style={{color: "#cf2e2e", textDecoration: "none"}} href="#" target="_blank"><u>Scholar</u> </a> )</i> <p style={{color:"aqua"}}> Under Review </p>
 </li>
      <p style={{color: "yellow"}}><u>2022</u></p>
             <li> <h style={{color:"aqua"}}>S. Afsha </h>, M. Haque and H. Nyeem, <b>“Machine Learning Models for Content Classification in Film
