@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/symaafsha/static/css/main.5ff50cff.css",
-    "main.js": "/symaafsha/static/js/main.bbe96325.js",
+    "main.js": "/symaafsha/static/js/main.ef406e12.js",
     "static/js/787.520e3195.chunk.js": "/symaafsha/static/js/787.520e3195.chunk.js",
     "static/media/badge.png": "/symaafsha/static/media/badge.0cf42725eea5aa5a5211.png",
     "static/media/violent.png": "/symaafsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
-    "static/media/cv.png": "/symaafsha/static/media/cv.e17ce48d3a65bfd2e419.png",
+    "static/media/cv.png": "/symaafsha/static/media/cv.5af574c89db83cbbbb0d.png",
     "static/media/MIST.png": "/symaafsha/static/media/MIST.5a94c00ee1b82aaa0316.png",
     "static/media/signpaper.jpg": "/symaafsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
     "static/media/footer-mail.png": "/symaafsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
@@ -22,11 +22,11 @@
     "static/media/mail.png": "/symaafsha/static/media/mail.acfb2e404601b649c577.png",
     "index.html": "/symaafsha/index.html",
     "main.5ff50cff.css.map": "/symaafsha/static/css/main.5ff50cff.css.map",
-    "main.bbe96325.js.map": "/symaafsha/static/js/main.bbe96325.js.map",
+    "main.ef406e12.js.map": "/symaafsha/static/js/main.ef406e12.js.map",
     "787.520e3195.chunk.js.map": "/symaafsha/static/js/787.520e3195.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ff50cff.css",
-    "static/js/main.bbe96325.js"
+    "static/js/main.ef406e12.js"
   ]
 }
